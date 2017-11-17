@@ -55,3 +55,4 @@ A compiled version of detours is included, and all terms of the included Microso
 	* Joel Juvél
 	* PlayYou
 	* and others who haven't been added yet
+	 
